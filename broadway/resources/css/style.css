@@ -3,15 +3,30 @@ body{
   text-align: center;
 }
 #head{
-  background: url('resources/images/the-flatiron-building.jpg');
+  background: url('../images/the-flatiron-building.jpg');
+
 }
 #head h1{
   font-size: 70px;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
 #head a{
   font-size: 18px;
-  color: black;
+  color: white;
+}
+
+#process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#process h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p{
+  font-size: 14px;
 }
