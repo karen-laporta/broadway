@@ -4,6 +4,7 @@ body{
 }
 #home{
   background-image: url('../images/the-flatiron-building.jpg');
+  background-size: cover;
 
 }
 #home h1{
@@ -37,6 +38,7 @@ p{
   color: white;
 /*  clip-path: inset(30px 10px 30px 10px);*/
   background-image: url('../images/the-flatiron-building.jpg');
+  background-size: cover;
 }
 
 #work h2{
